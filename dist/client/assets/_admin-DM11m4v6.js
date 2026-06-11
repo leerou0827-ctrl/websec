@@ -1,0 +1,1 @@
+import{j as o}from"./index-BgvsR9bh.js";import{A as p}from"./AppShell-D6vDBejy.js";import"./button-DbT23wY8.js";import"./utils-ClNb95QJ.js";import"./input-DjkpDlmm.js";import"./index-CxF3IEvb.js";import"./ThemeToggle-Cm5srTKP.js";import"./index-BgZLeBQx.js";import"./shield-check-DjNv6CVr.js";import"./users-FrlceZSD.js";const j=()=>o.jsx(p,{role:"admin"});export{j as component};
